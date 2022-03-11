@@ -332,7 +332,7 @@ change the value of `carpentry` to `incubator`.
 {% comment %}
 SCHEDULE
 
-{% include custom-schedule.html %}
+# {% include custom-schedule.html %}
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
