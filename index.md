@@ -13,7 +13,7 @@ humandate: "Apr 1,8,15,22, 2022"    # human-readable dates for the workshop (e.g
 humantime: "9:00 am - 1:00 pm MT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-04-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 instructor: ["Labeeb Ahmed", "Saira Haider", "Madison Langseth"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Marc Hunter"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Marc Hunter", "Matthew Rhoads", "Mark McKelvy","Kalle Jahn"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mlangseth@usgs.gov","gdonovan@usgs.gov", "lhsu@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: "https://doimspp-my.sharepoint.com/:w:/g/personal/mlangseth_usgs_gov/EY2OGR9ApSVNhY2RNMhgKT4B7iH-jc58eA-OspcJkhJiyg?e=ZUaYN1" # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 
